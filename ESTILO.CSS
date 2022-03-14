@@ -1,0 +1,361 @@
+.cuadro1{
+    background-color:white ;
+    height: 100px;
+    width: 100%;
+    opacity: 90%;
+    position: absolute;
+    top: 0%;
+}
+.texto1{
+    color:mediumblue;
+    position: absolute;
+    left: 130px;
+    top: 20px;
+    font-family:Arial, Helvetica, sans-serif ;
+
+    
+}
+.cuadro2{
+    background-color:#1580c2;
+    height: 750px;
+    width: 45%;
+    position: absolute;
+    right: 0%;
+    top: 0%;
+}
+.texto2{
+    color: gray;
+    position: absolute;
+    font-size: large;
+    bottom: 10px;
+    left: 40%;
+    font-family:Arial, Helvetica, sans-serif ;
+
+}
+.cuadro3{
+    background-color: blue;
+    height:45px;
+    width: 120px;
+    position: absolute;
+    right: 130px;
+    top: 30px;
+    border-radius: 10%;
+}
+.texto3{
+    color: white;
+    position: absolute;
+    bottom: -25px;
+    left: 13px;
+    font-size: medium;
+    font-family:Arial, Helvetica, sans-serif ;
+
+}
+.posicion1{
+    color: gray;
+    bottom: 20px;
+    font-family:Arial, Helvetica, sans-serif ;
+    position: absolute;
+
+}
+.imagen{
+    position: absolute;
+    top: 149px;
+    right: 120px;
+    width: 400px;
+    height: auto;
+}
+.texto4{
+    left: 50%;
+}
+.texto5{
+    left: 60%;
+}
+.texto6{
+    left: 68%;
+}
+
+.cuadro4{
+    background:white;
+    width: 63% ;
+    height: 125px;
+    position: absolute;
+    left: 150px;
+    top: 605px;
+}
+.im{
+    width: auto;
+    height: 20px;
+    top: 620px ;
+    position: absolute;
+}
+.imagen2{
+left: 600px;
+}
+.imagen3{
+    left: 400px;
+}
+
+.imagen4{
+    left: 200px;
+}
+.posicion{
+    color: rgb(5, 5, 148);
+    font-family:Arial, Helvetica, sans-serif ;
+    left: 100px;
+    position: absolute;
+    font-size: 300%;
+    
+}
+.virus{
+    top: 200px;
+}
+.vacunas{
+    top: 250px;
+}
+.info{
+    color: gray;
+    position: absolute;
+    left: 100px;
+    top: 330px ;
+    font-family:Arial, Helvetica, sans-serif ;
+    font-size: large;
+}
+.estrella{
+    top: 500px;
+    left: 250px;
+    width: auto;
+    height: 20px;
+    position: absolute;
+}
+.escudo{
+    top: 500px;
+    left: 100px;
+    width: auto;
+    height: 20px;
+    position: absolute;
+}
+.infoesc{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    top: 490px;
+    font-size: small;
+    left: 125px; ;
+    color: darkblue;
+}
+.infoestr{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    top: 490px;
+    font-size: small;
+    left: 270px; 
+    color: darkblue;
+}
+
+.imagenvac{
+    top: 800px;
+    position: absolute;
+    left: 10%;
+}
+.location{
+    color: gray;
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    left: 70px;
+}
+.loc{
+    color: rgb(3, 5, 88);
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    left: 70px;
+    top: 30px;
+}
+
+.date{
+    color: gray;
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    left: 280px;
+}
+.da{
+    color: rgb(3, 5, 88);
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    left: 280px;
+    top: 30px;
+}
+.vac{
+    color: rgb(3, 5, 88);
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    left: 485px;
+    top: 30px;
+}
+.vacci{
+    color: gray;
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    left: 485px;
+}
+.boton{
+    top: 30%;
+    position: absolute;
+    background:darkblue ;
+    right: 50px;
+    width: 150px;
+    height: 50px;
+    border-radius: 5%;
+}
+
+.submit{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif ;
+    position: absolute;
+    left: 20%;
+    top: -9px;
+}
+
+.pq{
+    color: darkblue;
+    font-family:Arial, Helvetica, sans-serif ;
+    position: absolute;
+    font-size: 40px;
+    top: 1000px;
+    left: 100px;
+}
+.esk{
+    color: gray;
+    font-family:Arial, Helvetica, sans-serif ;
+    position: absolute;
+    top: 1100px;
+    left: 100px;
+    font-size: 15px;
+}
+.foto2{
+    position: absolute;
+    top: 1650px;
+    height: auto;
+    width: 500px;
+    left: 100px;
+}
+
+.cuadrofoto2{
+    background-color: #1580c2;
+    position: absolute;
+    height: 400px;
+    width: 45%;
+    top: 1895px;
+}
+.cuadritos{
+    position: absolute;
+    top: 1200px;
+    left: 10%;
+}
+
+.txxt{
+    position: absolute;
+    color: darkblue;
+    top: 1650px;
+    font-family:Arial, Helvetica, sans-serif ;
+    left: 700px;
+    font-size: 40px;
+}
+.txxt2{
+    position: absolute;
+    color: gray;
+    top: 1725px;
+    font-family:Arial, Helvetica, sans-serif ;
+    left: 700px;
+    
+}
+
+.cuadros{
+    position: absolute;
+    top: 1880px;
+    right: 550px;
+}
+.alcohol{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: darkblue;
+    top: 1870px;
+    left: 770px;
+}
+.flechas{
+    position: absolute;
+    top: 1880px;
+    right: 100px;
+
+}
+.estres{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: darkblue;
+    top: 1950px;
+    left: 770px;
+}
+.estres2{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: gray;
+    top: 2000px;
+    left: 750px;
+}
+.comida{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: darkblue;
+    top: 2109px;
+    left: 770px;
+}
+.dormir{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: darkblue;
+    top: 2185px;
+    left: 770px;
+}
+
+.ejercicio{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: darkblue;
+    top: 2259px;
+    left: 770px;
+}
+.contacto{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: darkblue;
+    top: 2400px;
+    left: 100px;
+}
+
+.contacto1{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif ;
+    color: gray;
+    top: 2450px;
+    left: 100px;
+}
+.cuadrofinal{
+    position: absolute;
+    background-color: #1580c2;
+    height: 400px;
+    width: 45%;
+    top: 2700px;
+    right: 0%;
+}
+.doctor{
+    position: absolute;
+    top: 2550px;
+    right: 100px;
+    width: auto;
+    height: 550px;
+}
+.contactos{
+    position: absolute;
+    top: 2600px;
+    
+    width: auto;
+    height: 500px;
+}
